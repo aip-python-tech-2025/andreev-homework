@@ -79,7 +79,7 @@ print(greeting.replace('l', 'L', 2))
 print(greeting.split())
 
 # print([int(x) for x in input().split()])
-print(' | '.join(greeting.split()))
+print('___'.join(greeting.split()))
 
 print(greeting.capitalize())
 print(greeting.title())
