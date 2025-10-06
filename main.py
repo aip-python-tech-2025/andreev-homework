@@ -27,7 +27,7 @@ else:
 
 print('Идём дальше')
 
-for x in 1, 8, 4, 3:
+for x in 1, 8, 4, 3, -2:
     print(x)
 
 for i in range(5):
@@ -36,5 +36,5 @@ for i in range(5):
 for i in range(6, 10):
     print(i)
 
-for i in range(11, 20, 3):
+for i in range(11, 30, 3):
     print(i)
