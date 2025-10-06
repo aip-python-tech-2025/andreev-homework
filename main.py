@@ -23,11 +23,11 @@ while x < 45:
     print(x)
     x += 5
 else:
-    print('Ура...')
+    print('Ура!')
 
 print('Идём дальше')
 
-for x in 1, 8, 4, 3, -2:
+for x in 1, 8, 4, 3, -2, 8, 33:
     print(x)
 
 for i in range(5):
