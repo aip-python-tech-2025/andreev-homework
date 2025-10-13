@@ -1,5 +1,5 @@
 n = int(input())
 print('Hello Git Branches', n ** 2)
 
-words = 'GitHub', 'Testing', 'With', 'Editing'
+words = 'GitHub', '&', 'Git', 'Testing'
 print(' '.join(words))
